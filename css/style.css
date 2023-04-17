@@ -49,6 +49,10 @@ nav > button{
 button{
     width: 250px;
     height: 75px;
-    font-size: 75%;
+    font-size: 65%;
     justify-content: space-between;
+}
+section > img{
+    width: 30%;
+    height: 50%;
 }
